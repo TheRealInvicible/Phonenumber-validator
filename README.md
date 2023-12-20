@@ -2,7 +2,7 @@ A Phone number validator for validating bulk number using numverify api in just 
 This Script is for Education purpose only,
 To run the Script 
 
-git clone https://github.com/TheRealInvicible/Phonenumber-validator.git
+git clone https://github.com/TheRealInvicible/Phonenumber-validator.git.
 cd Phonenumber-validator
 pip install -r requirements.txt
 Linux = python3 phonevalidator.py
